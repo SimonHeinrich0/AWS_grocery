@@ -1,0 +1,1459 @@
+2025-02-27 23:00:45,228 - app - INFO - Fetched all products.
+2025-02-27 23:00:56,514 - app - INFO - Fetched all products.
+2025-02-27 23:00:57,492 - app - INFO - Fetched all products.
+2025-02-27 23:00:58,519 - app - INFO - Fetched all products.
+2025-02-27 23:01:37,212 - app - INFO - Fetched all products.
+2025-02-27 23:04:56,657 - app - INFO - Fetched all products.
+2025-02-27 23:04:57,774 - app - INFO - Fetched all products.
+2025-02-27 23:05:04,458 - app - INFO - Fetched all products.
+2025-02-27 23:05:06,149 - app - INFO - Fetched all products.
+2025-02-27 23:05:08,769 - app - INFO - Fetched all products.
+2025-02-27 23:05:10,631 - app - INFO - Fetched all products.
+2025-02-27 23:05:18,409 - app - INFO - Fetched all products.
+2025-02-27 23:06:41,319 - app - INFO - Fetched all products.
+2025-02-27 23:07:43,532 - app - INFO - Received registration data for user: Simon Heinrich
+2025-02-27 23:07:43,661 - app - INFO - Attempting to register user: Simon Heinrich
+2025-02-27 23:07:43,744 - app - INFO - User Simon Heinrich registered successfully.
+2025-02-27 23:07:43,745 - app - INFO - User Simon Heinrich registered successfully.
+2025-02-27 23:08:26,541 - app - INFO - Received registration data for user: Simon Heinrich II.
+2025-02-27 23:08:26,673 - app - INFO - Attempting to register user: Simon Heinrich II.
+2025-02-27 23:08:26,700 - app - INFO - User Simon Heinrich II. registered successfully.
+2025-02-27 23:08:26,700 - app - INFO - User Simon Heinrich II. registered successfully.
+2025-02-27 23:09:03,542 - app - INFO - Received login attempt for user: simonheinrich.b@gmail.com
+2025-02-27 23:09:03,543 - app - INFO - Attempting to login user: simonheinrich.b@gmail.com
+2025-02-27 23:09:03,692 - app - INFO - User Simon Heinrich II. authenticated successfully.
+2025-02-27 23:09:03,693 - app - INFO - User Simon Heinrich II. logged in successfully.
+2025-02-27 23:09:03,853 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:03,856 - app - INFO - Fetching information for all users.
+2025-02-27 23:09:03,857 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:03,858 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:03,862 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:09:03,898 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:03,915 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:03,957 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:03,959 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:03,959 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:03,962 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:03,962 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:03,963 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:04,008 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:04,008 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:04,008 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:09:04,010 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:04,010 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:04,010 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:09:04,014 - app - INFO - Retrieved 4 users.
+2025-02-27 23:09:04,023 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:04,027 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:04,029 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:04,030 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:04,031 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:04,032 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:04,231 - app - INFO - Fetched all products.
+2025-02-27 23:09:04,257 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:04,265 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:04,266 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:12,232 - app - INFO - Checking local avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_default.png, exists: True
+2025-02-27 23:09:12,236 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:12,236 - app - INFO - Serving user avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_default.png
+2025-02-27 23:09:12,246 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:12,248 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:13,675 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:13,677 - app - INFO - Fetching information for all users.
+2025-02-27 23:09:13,679 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:13,682 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:13,685 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:13,686 - app - INFO - Retrieved 4 users.
+2025-02-27 23:09:13,687 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:13,688 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:13,689 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:13,689 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:13,690 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:13,691 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:13,692 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:13,693 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:13,695 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:13,696 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:13,696 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:13,698 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:13,698 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:13,699 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:13,700 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:13,701 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:13,701 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:31,739 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:31,745 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:31,750 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:33,320 - app - INFO - Avatar for user 2 saved locally as user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png
+2025-02-27 23:09:33,327 - app - INFO - Avatar upload result for user 2: {'message': 'Avatar uploaded successfully', 'avatar_url': '/api/me/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png'}
+2025-02-27 23:09:33,339 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:33,340 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:33,343 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:33,344 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:33,346 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:33,349 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:33,349 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:33,349 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:33,351 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:33,351 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:33,353 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:33,354 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:33,360 - app - INFO - Checking local avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png, exists: True
+2025-02-27 23:09:33,361 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:33,361 - app - INFO - Serving user avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png
+2025-02-27 23:09:33,363 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:33,365 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:35,660 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:35,662 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:35,663 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:35,666 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:35,668 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:35,669 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:35,669 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:35,671 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:35,672 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:37,115 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:37,116 - app - INFO - Fetching information for all users.
+2025-02-27 23:09:37,118 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:37,121 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:09:37,122 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:37,125 - app - INFO - Retrieved 4 users.
+2025-02-27 23:09:37,125 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:37,126 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:09:37,126 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:37,128 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:09:37,128 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:37,135 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:37,135 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:37,138 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:37,139 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:37,142 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:37,142 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:37,143 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:37,145 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:37,160 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:37,160 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:37,161 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:37,161 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:37,165 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:37,178 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:37,178 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:37,321 - app - INFO - Fetched all products.
+2025-02-27 23:09:37,339 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:37,340 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:37,341 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:38,444 - app - INFO - Checking local avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png, exists: True
+2025-02-27 23:09:38,445 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:38,445 - app - INFO - Serving user avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png
+2025-02-27 23:09:38,448 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:38,450 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:39,306 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:39,306 - app - INFO - Fetching information for all users.
+2025-02-27 23:09:39,309 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:39,309 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:39,310 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:39,316 - app - INFO - Retrieved 4 users.
+2025-02-27 23:09:39,316 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:39,317 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:39,318 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:39,319 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:39,321 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:39,323 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:39,324 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:39,325 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:39,326 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:39,327 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:39,328 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:39,331 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:39,331 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:39,333 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:39,333 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:39,334 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:39,334 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:41,109 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:41,115 - app - INFO - Fetching info for user 2.
+2025-02-27 23:09:41,118 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:41,120 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:09:41,124 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:09:41,127 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:04,129 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:04,141 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:04,169 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:04,814 - app - INFO - Fetching information for all users.
+2025-02-27 23:10:04,815 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:04,819 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:04,820 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:04,824 - app - INFO - Retrieved 4 users.
+2025-02-27 23:10:04,825 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:04,827 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:04,828 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:04,830 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:04,830 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:04,832 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:04,833 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:04,833 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:04,833 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:04,835 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:04,837 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:04,838 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:04,839 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:04,840 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:04,841 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:04,841 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:04,842 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:04,842 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:11,007 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:11,010 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:11,011 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:11,015 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:11,018 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:11,021 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:58,133 - app - INFO - Checking local avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png, exists: True
+2025-02-27 23:10:58,136 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:58,137 - app - INFO - Serving user avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png
+2025-02-27 23:10:58,147 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:58,149 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:58,910 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:58,911 - app - INFO - Fetching information for all users.
+2025-02-27 23:10:58,912 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:58,913 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:58,916 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:58,920 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:58,922 - app - INFO - Retrieved 4 users.
+2025-02-27 23:10:58,923 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:58,924 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:58,925 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:58,928 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:58,929 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:58,929 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:58,931 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:58,933 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:58,933 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:58,934 - app - INFO - Fetching info for user 2.
+2025-02-27 23:10:58,942 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:58,942 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:58,942 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:10:58,943 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:58,943 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:10:58,944 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:11:11,926 - app - INFO - Fetching info for user 2.
+2025-02-27 23:11:11,927 - app - INFO - Fetching info for user 2.
+2025-02-27 23:11:11,952 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:11:11,953 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:11:11,955 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:11:11,955 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:11:12,837 - app - INFO - Fetching info for user 2.
+2025-02-27 23:11:12,841 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:11:12,844 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:14:20,629 - app - INFO - Fetching info for user 2.
+2025-02-27 23:14:20,630 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:14:20,632 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:14:20,644 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:14:20,749 - app - INFO - Fetching info for user 2.
+2025-02-27 23:14:20,752 - app - INFO - Fetching information for all users.
+2025-02-27 23:14:20,753 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:14:20,754 - app - INFO - Fetching info for user 2.
+2025-02-27 23:14:20,757 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:14:20,758 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:14:20,784 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:14:20,786 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:14:20,786 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:14:20,787 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:14:20,788 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:14:20,790 - app - INFO - Retrieved 4 users.
+2025-02-27 23:14:20,790 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:14:20,790 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:14:20,791 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:14:20,791 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:14:20,792 - app - INFO - Fetched 0 favorite products for user 2.
+2025-02-27 23:14:20,792 - app - INFO - Fetched 0 favorite products for user 2.
+2025-02-27 23:14:20,792 - app - INFO - Fetched 0 favorite products for user 2.
+2025-02-27 23:14:20,794 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:14:20,794 - app - INFO - Fetched 0 favorite products for user 2.
+2025-02-27 23:14:20,795 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:14:20,795 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:14:20,796 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:14:20,798 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:14:20,801 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:14:20,803 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:14:20,803 - app - INFO - Fetching info for user 2.
+2025-02-27 23:14:20,804 - app - INFO - Fetching info for user 2.
+2025-02-27 23:14:20,806 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:14:20,809 - app - INFO - Fetching info for user 2.
+2025-02-27 23:14:20,811 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:14:20,811 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:14:20,813 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:14:20,814 - app - INFO - Fetching info for user 2.
+2025-02-27 23:14:20,815 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:14:20,816 - app - INFO - Fetching info for user 2.
+2025-02-27 23:14:20,816 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:14:20,817 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:14:20,818 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:14:20,819 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:14:20,820 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:14:20,821 - app - INFO - Fetching info for user 2.
+2025-02-27 23:14:20,822 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:14:20,826 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:14:20,827 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:14:21,036 - app - INFO - Fetched all products.
+2025-02-27 23:14:21,058 - app - INFO - Fetching info for user 2.
+2025-02-27 23:14:21,059 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:14:21,059 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:14:24,192 - app - INFO - User 2 attempting to add product 1 to favorites.
+2025-02-27 23:14:24,196 - app - INFO - Adding product 1 to user 2's favorites.
+2025-02-27 23:14:24,204 - app - INFO - Product 1 added to favorites for user 2.
+2025-02-27 23:14:24,204 - app - INFO - Product 1 added to favorites for user 2.
+2025-02-27 23:14:30,795 - app - INFO - User 2 attempting to add product 5 to favorites.
+2025-02-27 23:14:30,800 - app - INFO - Adding product 5 to user 2's favorites.
+2025-02-27 23:14:30,805 - app - INFO - Product 5 added to favorites for user 2.
+2025-02-27 23:14:30,805 - app - INFO - Product 5 added to favorites for user 2.
+2025-02-27 23:14:37,034 - app - INFO - User 2 attempting to add product 9 to favorites.
+2025-02-27 23:14:37,041 - app - INFO - Adding product 9 to user 2's favorites.
+2025-02-27 23:14:37,045 - app - INFO - Product 9 added to favorites for user 2.
+2025-02-27 23:14:37,045 - app - INFO - Product 9 added to favorites for user 2.
+2025-02-27 23:15:10,656 - app - INFO - User 2 attempting to add product 16 to favorites.
+2025-02-27 23:15:10,666 - app - INFO - Adding product 16 to user 2's favorites.
+2025-02-27 23:15:10,673 - app - INFO - Product 16 added to favorites for user 2.
+2025-02-27 23:15:10,674 - app - INFO - Product 16 added to favorites for user 2.
+2025-02-27 23:15:45,738 - app - INFO - Fetching info for user 2.
+2025-02-27 23:15:45,739 - app - INFO - Fetching information for all users.
+2025-02-27 23:15:45,744 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:15:45,745 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:15:45,747 - app - INFO - Fetching info for user 2.
+2025-02-27 23:15:45,748 - app - INFO - Retrieved 4 users.
+2025-02-27 23:15:45,749 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:15:45,749 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:15:45,751 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:15:45,751 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:15:45,752 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:15:45,754 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:15:45,756 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:15:45,757 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:15:45,763 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:15:45,769 - app - INFO - Fetching info for user 2.
+2025-02-27 23:15:45,772 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:15:45,774 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:15:45,774 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:15:45,777 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:15:45,778 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:15:45,781 - app - INFO - Fetching info for user 2.
+2025-02-27 23:15:45,782 - app - INFO - Fetching info for user 2.
+2025-02-27 23:15:45,783 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:15:45,783 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:15:45,784 - app - INFO - Fetching info for user 2.
+2025-02-27 23:15:45,785 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:15:45,785 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:15:45,786 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:15:45,786 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:15:45,788 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:15:45,788 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:15:45,789 - app - INFO - Fetching info for user 2.
+2025-02-27 23:15:45,793 - app - INFO - Fetching info for user 2.
+2025-02-27 23:15:45,795 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:15:45,796 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:15:45,796 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:15:45,797 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:15:45,968 - app - INFO - Fetched all products.
+2025-02-27 23:15:45,990 - app - INFO - Fetching info for user 2.
+2025-02-27 23:15:45,992 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:15:45,992 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:16:08,764 - app - INFO - Fetching info for user 2.
+2025-02-27 23:16:08,765 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:16:08,772 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:16:08,774 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:16:08,776 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:16:08,784 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:16:08,786 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:16:08,786 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:16:08,789 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:16:08,790 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:16:08,794 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:16:08,794 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:16:08,835 - app - INFO - Fetching info for user 2.
+2025-02-27 23:16:08,836 - app - INFO - Fetching information for all users.
+2025-02-27 23:16:08,837 - app - INFO - Fetching info for user 2.
+2025-02-27 23:16:08,838 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:16:08,838 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:16:08,839 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:16:08,841 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:16:08,841 - app - INFO - Retrieved 4 users.
+2025-02-27 23:16:08,842 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:16:08,843 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:16:08,843 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:16:08,844 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:16:08,846 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:16:08,847 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:16:08,848 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:16:08,851 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:16:08,853 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:16:08,854 - app - INFO - Fetching info for user 2.
+2025-02-27 23:16:08,857 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:16:08,860 - app - INFO - Fetching info for user 2.
+2025-02-27 23:16:08,861 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:16:08,866 - app - INFO - Fetching info for user 2.
+2025-02-27 23:16:08,868 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:16:08,870 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:16:08,871 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:16:08,874 - app - INFO - Fetching info for user 2.
+2025-02-27 23:16:08,875 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:16:08,877 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:16:08,878 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:16:08,880 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:16:08,881 - app - INFO - Fetching info for user 2.
+2025-02-27 23:16:08,883 - app - INFO - Fetching info for user 2.
+2025-02-27 23:16:08,884 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:16:08,886 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:16:08,886 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:16:08,887 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:16:08,887 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:16:08,892 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:16:09,066 - app - INFO - Fetched all products.
+2025-02-27 23:16:09,090 - app - INFO - Fetching info for user 2.
+2025-02-27 23:16:09,091 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:16:09,092 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:17:01,244 - app - INFO - Fetching info for user 2.
+2025-02-27 23:17:01,271 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:17:01,274 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:17:03,886 - app - INFO - Fetching info for user 2.
+2025-02-27 23:17:03,887 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:17:03,889 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:17:03,890 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:17:03,891 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:17:03,895 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:17:03,917 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:17:03,917 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:17:03,925 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:17:03,926 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:17:03,930 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:17:03,931 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:17:03,989 - app - INFO - Fetching info for user 2.
+2025-02-27 23:17:03,990 - app - INFO - Fetching information for all users.
+2025-02-27 23:17:03,992 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:17:03,992 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:17:03,993 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:17:03,994 - app - INFO - Fetching info for user 2.
+2025-02-27 23:17:03,995 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:17:03,997 - app - INFO - Retrieved 4 users.
+2025-02-27 23:17:03,997 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:17:03,997 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:17:03,998 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:17:03,999 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:17:04,002 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:17:04,006 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:17:04,006 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:17:04,010 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:17:04,016 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:17:04,020 - app - INFO - Fetching info for user 2.
+2025-02-27 23:17:04,021 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:17:04,023 - app - INFO - Fetching info for user 2.
+2025-02-27 23:17:04,024 - app - INFO - Fetching info for user 2.
+2025-02-27 23:17:04,025 - app - INFO - Fetching info for user 2.
+2025-02-27 23:17:04,027 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:17:04,027 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:17:04,034 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:17:04,034 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:17:04,037 - app - INFO - Fetching info for user 2.
+2025-02-27 23:17:04,038 - app - INFO - Fetching info for user 2.
+2025-02-27 23:17:04,038 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:17:04,039 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:17:04,039 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:17:04,040 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:17:04,040 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:17:04,040 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:17:04,041 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:17:04,042 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:17:04,047 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:17:04,052 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:17:04,244 - app - INFO - Fetched all products.
+2025-02-27 23:17:04,274 - app - INFO - Fetching info for user 2.
+2025-02-27 23:17:04,275 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:17:04,276 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:21,635 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:21,637 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:21,663 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:21,664 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:21,669 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:21,671 - app - INFO - Added new item 97 with quantity 30000 for user 2
+2025-02-27 23:18:21,688 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:21,689 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:24,236 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:24,239 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:24,240 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:39,866 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:39,872 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:39,874 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:39,875 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:39,875 - app - INFO - Updated item 97 to quantity 29999 for user 2
+2025-02-27 23:18:39,876 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:39,878 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:39,879 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:40,068 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:40,072 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:40,073 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:40,074 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:40,075 - app - INFO - Updated item 97 to quantity 29998 for user 2
+2025-02-27 23:18:40,077 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:40,078 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:40,079 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:40,262 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:40,265 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:40,266 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:40,269 - app - INFO - Updated item 97 to quantity 29997 for user 2
+2025-02-27 23:18:40,269 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:40,271 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:40,272 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:40,273 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:40,440 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:40,443 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:40,445 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:40,445 - app - INFO - Updated item 97 to quantity 29996 for user 2
+2025-02-27 23:18:40,448 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:40,449 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:40,449 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:40,449 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:40,604 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:40,608 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:40,609 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:40,611 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:40,611 - app - INFO - Updated item 97 to quantity 29995 for user 2
+2025-02-27 23:18:40,612 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:40,614 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:40,614 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:47,190 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:47,192 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:47,202 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:47,205 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:47,213 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:47,215 - app - INFO - Updated item 97 to quantity 29994 for user 2
+2025-02-27 23:18:47,218 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:47,218 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:47,348 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:47,351 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:47,355 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:47,356 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:47,356 - app - INFO - Updated item 97 to quantity 29993 for user 2
+2025-02-27 23:18:47,358 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:47,359 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:47,360 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:47,481 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:47,483 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:47,486 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:47,487 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:47,489 - app - INFO - Updated item 97 to quantity 29992 for user 2
+2025-02-27 23:18:47,489 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:47,491 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:47,492 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:47,617 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:47,623 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:47,623 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:47,627 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:47,627 - app - INFO - Updated item 97 to quantity 29991 for user 2
+2025-02-27 23:18:47,630 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:47,631 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:47,632 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:47,759 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:47,764 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:47,766 - app - INFO - Updated item 97 to quantity 29990 for user 2
+2025-02-27 23:18:47,769 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:47,769 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:47,775 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:47,777 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:47,779 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:47,916 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:47,922 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:47,922 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:47,925 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:47,925 - app - INFO - Updated item 97 to quantity 29989 for user 2
+2025-02-27 23:18:47,927 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:47,928 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:47,929 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:48,048 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:48,054 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:48,054 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:48,057 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:48,058 - app - INFO - Updated item 97 to quantity 29988 for user 2
+2025-02-27 23:18:48,059 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:48,061 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:48,061 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:48,183 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:48,188 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:48,188 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:48,191 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:48,192 - app - INFO - Updated item 97 to quantity 29987 for user 2
+2025-02-27 23:18:48,193 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:48,195 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:48,195 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:48,332 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:48,338 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:48,338 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:48,340 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:48,340 - app - INFO - Updated item 97 to quantity 29986 for user 2
+2025-02-27 23:18:48,342 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:48,343 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:48,344 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:48,483 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:48,488 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:48,489 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:48,491 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:48,491 - app - INFO - Updated item 97 to quantity 29985 for user 2
+2025-02-27 23:18:48,493 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:48,494 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:48,495 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:48,632 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:48,636 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:48,637 - app - INFO - Updated item 97 to quantity 29984 for user 2
+2025-02-27 23:18:48,639 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:48,641 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:48,642 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:48,642 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:48,644 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:48,772 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:48,776 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:48,777 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:48,779 - app - INFO - Updated item 97 to quantity 29983 for user 2
+2025-02-27 23:18:48,780 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:48,781 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:48,782 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:48,783 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:48,935 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:48,947 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:48,947 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:48,949 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:48,950 - app - INFO - Updated item 97 to quantity 29982 for user 2
+2025-02-27 23:18:48,951 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:48,952 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:48,953 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:49,103 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:49,108 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:49,108 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:49,111 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:49,111 - app - INFO - Updated item 97 to quantity 29981 for user 2
+2025-02-27 23:18:49,113 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:49,114 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:49,115 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:49,260 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:49,265 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:49,265 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:49,267 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:49,268 - app - INFO - Updated item 97 to quantity 29980 for user 2
+2025-02-27 23:18:49,270 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:49,271 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:49,272 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:49,404 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:49,405 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:49,410 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:49,410 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:49,412 - app - INFO - Updated item 97 to quantity 29979 for user 2
+2025-02-27 23:18:49,412 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:49,415 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:49,416 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:49,568 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:49,574 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:49,574 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:49,577 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:49,578 - app - INFO - Updated item 97 to quantity 29978 for user 2
+2025-02-27 23:18:49,579 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:49,582 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:49,583 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:50,501 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:50,506 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:50,506 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:50,509 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:50,510 - app - INFO - Updated item 97 to quantity 29977 for user 2
+2025-02-27 23:18:50,510 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:50,513 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:50,513 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:50,736 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:50,743 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:50,744 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:50,746 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:50,746 - app - INFO - Updated item 97 to quantity 29976 for user 2
+2025-02-27 23:18:50,748 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:50,749 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:50,750 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:51,400 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:51,406 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:51,406 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:51,409 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:51,410 - app - INFO - Updated item 97 to quantity 29977 for user 2
+2025-02-27 23:18:51,412 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:51,413 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:51,414 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:52,428 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:52,432 - app - INFO - Syncing basket for user 2. Items to delete: {97}
+2025-02-27 23:18:52,435 - app - INFO - Deleted item with product_id 97 for user 2
+2025-02-27 23:18:52,442 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:52,442 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:52,462 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:52,464 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:52,466 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:52,467 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:52,468 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:52,468 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:53,266 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:53,268 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:18:53,269 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:18:53,271 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:18:53,271 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:53,275 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:18:53,275 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:18:53,278 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:18:53,278 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:53,278 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:18:53,288 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:18:53,294 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:18:53,339 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:53,340 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:18:53,341 - app - INFO - Fetching information for all users.
+2025-02-27 23:18:53,342 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:18:53,342 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:53,344 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:18:53,345 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:18:53,346 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:18:53,346 - app - INFO - Retrieved 4 users.
+2025-02-27 23:18:53,347 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:18:53,348 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:53,348 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:18:53,349 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:18:53,353 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:18:53,357 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:53,358 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:18:53,360 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:18:53,362 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:53,365 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:53,365 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:18:53,367 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:53,367 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:53,368 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:53,368 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:53,370 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:53,371 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:53,372 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:53,374 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:53,374 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:53,375 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:53,375 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:53,378 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:53,379 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:53,379 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:53,381 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:53,383 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:53,384 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:53,384 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:53,589 - app - INFO - Fetched all products.
+2025-02-27 23:18:53,608 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:53,609 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:53,610 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:56,046 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:56,049 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:56,051 - app - INFO - Added new item 1 with quantity 1 for user 2
+2025-02-27 23:18:56,052 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:56,055 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:56,056 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:56,057 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:56,057 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:57,467 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:57,468 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:57,472 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:57,473 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:57,474 - app - INFO - Updated item 1 to quantity 1 for user 2
+2025-02-27 23:18:57,474 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:57,477 - app - INFO - Added new item 2 with quantity 1 for user 2
+2025-02-27 23:18:57,480 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:57,480 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:18:58,432 - app - INFO - User 2 syncing basket.
+2025-02-27 23:18:58,434 - app - INFO - Fetching info for user 2.
+2025-02-27 23:18:58,437 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:18:58,438 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:18:58,439 - app - INFO - Updated item 1 to quantity 1 for user 2
+2025-02-27 23:18:58,440 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:18:58,442 - app - INFO - Updated item 2 to quantity 1 for user 2
+2025-02-27 23:18:58,444 - app - INFO - Added new item 3 with quantity 1 for user 2
+2025-02-27 23:18:58,446 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:18:58,446 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:19:01,313 - app - INFO - Fetching info for user 2.
+2025-02-27 23:19:01,316 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:19:01,318 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:20:13,685 - app - INFO - User 2 purchasing products [1, 2, 3].
+2025-02-27 23:20:13,704 - app - INFO - Added products [1, 2, 3] to user 2's purchased products.
+2025-02-27 23:20:13,704 - app - INFO - Products [1, 2, 3] purchased successfully by user 2.
+2025-02-27 23:20:13,704 - app - INFO - Attempting to clear basket for user 2.
+2025-02-27 23:20:13,706 - app - INFO - Removing item 1 from basket for user 2.
+2025-02-27 23:20:13,706 - app - INFO - Removing item 2 from basket for user 2.
+2025-02-27 23:20:13,706 - app - INFO - Removing item 3 from basket for user 2.
+2025-02-27 23:20:13,708 - app - INFO - Successfully cleared basket for user 2.
+2025-02-27 23:20:13,708 - app - INFO - Basket cleared for user 2 after purchase.
+2025-02-27 23:20:13,729 - app - INFO - Fetching info for user 2.
+2025-02-27 23:20:13,733 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:20:13,739 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:20:13,755 - app - INFO - Fetching info for user 2.
+2025-02-27 23:20:13,758 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:20:13,760 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:20:22,346 - app - INFO - Fetching info for user 2.
+2025-02-27 23:20:22,347 - app - INFO - Checking local avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png, exists: True
+2025-02-27 23:20:22,349 - app - INFO - Serving user avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png
+2025-02-27 23:20:22,352 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:20:22,354 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:20:26,069 - app - INFO - Fetching info for user 2.
+2025-02-27 23:20:26,087 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:20:26,090 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:20:31,635 - app - INFO - Fetching info for user 2.
+2025-02-27 23:20:31,640 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:20:31,641 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:20:32,469 - app - INFO - Fetching info for user 2.
+2025-02-27 23:20:32,474 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:20:32,476 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:24,189 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:24,193 - app - INFO - Fetching information for all users.
+2025-02-27 23:21:24,199 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:24,201 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:24,203 - app - INFO - Retrieved 4 users.
+2025-02-27 23:21:24,205 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:24,205 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:24,207 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:24,209 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:24,212 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:24,213 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:24,214 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:24,214 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:24,215 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:24,216 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:24,217 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:24,217 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:24,218 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:24,219 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:24,220 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:26,272 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:26,273 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:21:26,274 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:21:26,276 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:26,278 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:21:26,279 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:21:26,280 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:21:26,282 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:26,283 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:21:26,284 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:21:26,286 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:21:26,291 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:21:26,332 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:26,335 - app - INFO - Fetching information for all users.
+2025-02-27 23:21:26,336 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:26,336 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:21:26,338 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:21:26,340 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:21:26,341 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:21:26,344 - app - INFO - Retrieved 4 users.
+2025-02-27 23:21:26,344 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:21:26,345 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:21:26,348 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:21:26,351 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:21:26,351 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:21:26,355 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:26,356 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:21:26,358 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:26,358 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:26,362 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:26,364 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:26,368 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:26,369 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:26,371 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:26,371 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:26,372 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:26,372 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:21:26,374 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:26,375 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:26,377 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:26,378 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:26,378 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:21:26,379 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:26,379 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:26,382 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:26,384 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:26,385 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:26,386 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:26,398 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:26,399 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:26,571 - app - INFO - Fetched all products.
+2025-02-27 23:21:26,593 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:26,594 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:26,595 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:29,112 - app - INFO - Checking local avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png, exists: True
+2025-02-27 23:21:29,113 - app - INFO - Serving user avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png
+2025-02-27 23:21:29,114 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:29,118 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:29,121 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:29,989 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:29,992 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:29,993 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:31,898 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:31,899 - app - INFO - Fetching information for all users.
+2025-02-27 23:21:31,901 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:31,902 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:31,904 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:31,906 - app - INFO - Retrieved 4 users.
+2025-02-27 23:21:31,906 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:31,908 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:31,909 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:31,910 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:31,911 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:31,912 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:31,914 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:31,915 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:31,915 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:31,916 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:31,917 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:31,917 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:31,918 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:31,919 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:31,919 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:31,921 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:31,921 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:33,062 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:33,065 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:33,066 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:33,068 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:33,068 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:33,070 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:38,685 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:38,687 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:38,688 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:41,333 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:41,334 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:21:41,335 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:21:41,338 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:21:41,338 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:41,342 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:21:41,342 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:21:41,344 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:41,344 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:21:41,345 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:21:41,347 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:21:41,349 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:21:41,388 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:41,389 - app - INFO - Fetching information for all users.
+2025-02-27 23:21:41,390 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:21:41,391 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:41,391 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:41,392 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:21:41,393 - app - INFO - Fetching favorite products for user 2.
+2025-02-27 23:21:41,394 - app - INFO - Retrieved 4 users.
+2025-02-27 23:21:41,395 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:41,396 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:21:41,397 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:21:41,397 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:41,400 - app - INFO - Fetching basket for user 2.
+2025-02-27 23:21:41,400 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:21:41,402 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:41,403 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:21:41,406 - app - INFO - Fetched basket details for user 2.
+2025-02-27 23:21:41,408 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-27 23:21:41,410 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:41,413 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:41,417 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:41,421 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:41,423 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:41,423 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:41,423 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:41,424 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:41,425 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:41,425 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-27 23:21:41,425 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:41,425 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:41,426 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:41,430 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-27 23:21:41,431 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:41,432 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:41,434 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:41,436 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:41,437 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:41,438 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:41,609 - app - INFO - Fetched all products.
+2025-02-27 23:21:41,627 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:41,628 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:41,629 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:44,887 - app - INFO - User 2 syncing basket.
+2025-02-27 23:21:44,891 - app - INFO - Syncing basket for user 2. Items to delete: set()
+2025-02-27 23:21:44,893 - app - INFO - Added new item 49 with quantity 1 for user 2
+2025-02-27 23:21:44,895 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:44,898 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:44,899 - app - INFO - Basket successfully synced for user 2
+2025-02-27 23:21:44,899 - app - INFO - Basket for user 2 synced successfully.
+2025-02-27 23:21:44,901 - app - INFO - User info for 2 retrieved successfully.
+2025-02-27 23:21:46,831 - app - INFO - Fetching info for user 2.
+2025-02-27 23:21:46,833 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-27 23:21:46,834 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 15:13:14,845 - app - INFO - Fetched all products.
+2025-02-28 15:13:17,855 - app - INFO - Fetched all products.
+2025-02-28 15:13:24,801 - app - INFO - Fetched all products.
+2025-02-28 15:14:00,556 - app - INFO - Received login attempt for user: simonheinrich.b@gmail.com
+2025-02-28 15:14:00,557 - app - INFO - Attempting to login user: simonheinrich.b@gmail.com
+2025-02-28 15:14:00,712 - app - INFO - User Simon Heinrich II. authenticated successfully.
+2025-02-28 15:14:00,713 - app - INFO - User Simon Heinrich II. logged in successfully.
+2025-02-28 15:14:00,855 - app - INFO - Fetching info for user 2.
+2025-02-28 15:14:00,858 - app - INFO - Fetching information for all users.
+2025-02-28 15:14:00,859 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 15:14:00,863 - app - INFO - Fetching basket for user 2.
+2025-02-28 15:14:00,865 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 15:14:00,877 - app - INFO - Fetching info for user 2.
+2025-02-28 15:14:00,903 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 15:14:00,906 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 15:14:00,913 - app - INFO - Fetching info for user 2.
+2025-02-28 15:14:00,915 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 15:14:00,923 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 15:14:00,936 - app - INFO - Fetching info for user 2.
+2025-02-28 15:14:00,939 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 15:14:00,940 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 15:14:00,956 - app - INFO - Fetched basket details for user 2.
+2025-02-28 15:14:00,956 - app - INFO - Retrieved 4 users.
+2025-02-28 15:14:00,956 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 15:14:01,156 - app - INFO - Fetched all products.
+2025-02-28 15:14:01,362 - app - INFO - Fetching info for user 2.
+2025-02-28 15:14:01,365 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 15:14:01,366 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 15:14:01,401 - app - INFO - Fetching info for user 2.
+2025-02-28 15:14:01,403 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 15:14:01,406 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 15:14:01,409 - app - INFO - Fetching info for user 2.
+2025-02-28 15:14:01,412 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 15:14:01,413 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 15:14:01,416 - app - INFO - Fetching info for user 2.
+2025-02-28 15:14:01,418 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 15:14:01,419 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 15:14:03,373 - app - INFO - Checking local avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png, exists: True
+2025-02-28 15:14:03,374 - app - INFO - Fetching info for user 2.
+2025-02-28 15:14:03,374 - app - INFO - Serving user avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png
+2025-02-28 15:14:03,376 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 15:14:03,377 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:40,367 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:40,487 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:40,491 - app - INFO - Fetching information for all users.
+2025-02-28 18:26:40,495 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:26:40,627 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:40,628 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:40,628 - app - INFO - Retrieved 4 users.
+2025-02-28 18:26:40,630 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:26:40,630 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:40,631 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:40,631 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:26:40,640 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:40,642 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:40,642 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:40,662 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:40,663 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:40,664 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:40,748 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:40,749 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:40,750 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:40,763 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:40,765 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:40,766 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:40,768 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:40,769 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:40,770 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:40,772 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:40,773 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:40,774 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:40,883 - app - INFO - Fetched all products.
+2025-02-28 18:26:41,198 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:41,200 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:41,205 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:43,725 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:43,729 - app - INFO - Fetching favorite products for user 2.
+2025-02-28 18:26:43,775 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:43,781 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:43,788 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-28 18:26:43,795 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-28 18:26:43,815 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:43,820 - app - INFO - Fetching information for all users.
+2025-02-28 18:26:43,827 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:43,830 - app - INFO - Fetching favorite products for user 2.
+2025-02-28 18:26:43,843 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:26:43,855 - app - INFO - Retrieved 4 users.
+2025-02-28 18:26:43,856 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:43,860 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-28 18:26:43,863 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:26:43,867 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:26:43,870 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:43,871 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-28 18:26:43,874 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:43,876 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:44,002 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:44,004 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:44,006 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:44,008 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:44,010 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:44,010 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:44,013 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:44,014 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:44,014 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:44,016 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:44,017 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:44,018 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:44,020 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:44,022 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:44,023 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:26:44,181 - app - INFO - Fetched all products.
+2025-02-28 18:26:44,205 - app - INFO - Fetching info for user 2.
+2025-02-28 18:26:44,207 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:26:44,208 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:00,080 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:27:00,106 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:27:00,106 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:27:00,115 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:00,119 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:00,122 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:01,432 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:01,434 - app - INFO - Fetching product with ID 2.
+2025-02-28 18:27:01,435 - app - INFO - Fetching purchased products for user 2.
+2025-02-28 18:27:01,438 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:01,439 - app - INFO - Product with ID 2 found.
+2025-02-28 18:27:01,441 - app - INFO - Fetched purchased products for user 2.
+2025-02-28 18:27:01,441 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:01,442 - app - INFO - Product with ID 2 found.
+2025-02-28 18:27:01,442 - app - INFO - Purchased products for user 2 retrieved successfully.
+2025-02-28 18:27:01,448 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:01,449 - app - INFO - Fetching information for all users.
+2025-02-28 18:27:01,451 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:01,452 - app - INFO - Retrieved 4 users.
+2025-02-28 18:27:01,453 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:01,455 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:01,456 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:01,457 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:01,497 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:01,499 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:01,501 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:01,509 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:01,509 - app - INFO - Fetching information for all users.
+2025-02-28 18:27:01,513 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:01,514 - app - INFO - Retrieved 4 users.
+2025-02-28 18:27:01,516 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:01,518 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:01,519 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:01,520 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:01,523 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:01,525 - app - INFO - Checking local avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png, exists: True
+2025-02-28 18:27:01,525 - app - INFO - Serving user avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png
+2025-02-28 18:27:01,548 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:01,549 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:01,552 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:01,553 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:01,555 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:01,557 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:01,558 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:01,559 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:01,561 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:01,563 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:01,564 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:03,720 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:03,722 - app - INFO - Fetching information for all users.
+2025-02-28 18:27:03,726 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:03,729 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:27:03,739 - app - INFO - Retrieved 4 users.
+2025-02-28 18:27:03,739 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:03,754 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:27:03,756 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:27:03,758 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:03,765 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:03,766 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:03,771 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:03,774 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:03,786 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:03,814 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:03,832 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:03,850 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:03,858 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:03,861 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:03,863 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:03,868 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:03,871 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:03,873 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:03,877 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:03,879 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:03,880 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:04,078 - app - INFO - Fetched all products.
+2025-02-28 18:27:04,380 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:04,381 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:04,382 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:13,461 - app - INFO - Checking local avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png, exists: True
+2025-02-28 18:27:13,463 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:13,464 - app - INFO - Serving user avatar: /Users/simonheinrich/AWS_grocery/backend/avatar/user_2_1740694173_vigatros_gangster_pope_francis_wearing_a_leather_jacket_and_i_a7fa8f6f-f0b6-4657-8313-2472e178d173_1.png
+2025-02-28 18:27:13,472 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:13,474 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:14,657 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:14,659 - app - INFO - Fetching information for all users.
+2025-02-28 18:27:14,663 - app - INFO - Retrieved 4 users.
+2025-02-28 18:27:14,673 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:14,674 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:14,677 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:14,679 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:14,680 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:14,682 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:14,684 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:14,684 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:14,686 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:14,687 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:14,688 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:14,690 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:14,692 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:14,693 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:14,696 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:14,698 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:14,700 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:14,704 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:14,706 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:14,720 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:16,028 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:16,030 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:16,032 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:16,034 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:16,036 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:16,037 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:17,644 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:17,647 - app - INFO - Fetching favorite products for user 2.
+2025-02-28 18:27:17,649 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:17,659 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:17,660 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-28 18:27:17,665 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-28 18:27:17,690 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:17,691 - app - INFO - Fetching information for all users.
+2025-02-28 18:27:17,691 - app - INFO - Fetching favorite products for user 2.
+2025-02-28 18:27:17,692 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:27:17,698 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:17,698 - app - INFO - Retrieved 4 users.
+2025-02-28 18:27:17,700 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:27:17,708 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-28 18:27:17,708 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:17,709 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:27:17,716 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-28 18:27:17,722 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:17,725 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:17,726 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:27:17,727 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:17,727 - app - INFO - Fetching favorite products for user 2.
+2025-02-28 18:27:17,730 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:27:17,732 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:27:17,732 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-28 18:27:17,736 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:17,738 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:17,738 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-28 18:27:17,740 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:17,743 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:17,744 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:17,747 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:17,755 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:17,760 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:17,762 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:17,770 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:17,773 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:17,775 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:17,782 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:17,784 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:17,785 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:17,788 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:17,789 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:17,790 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:17,949 - app - INFO - Fetched all products.
+2025-02-28 18:27:17,969 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:17,970 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:17,971 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:23,077 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:23,104 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:23,107 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:23,169 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:23,172 - app - INFO - Fetching information for all users.
+2025-02-28 18:27:23,175 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:23,181 - app - INFO - Retrieved 4 users.
+2025-02-28 18:27:23,182 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:23,187 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:27:23,192 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:23,193 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:27:23,199 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:27:23,205 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:23,207 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:23,214 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:23,216 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:23,219 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:23,223 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:23,237 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:23,238 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:23,243 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:23,255 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:23,258 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:23,262 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:23,265 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:23,267 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:23,275 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:23,278 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:23,279 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:23,482 - app - INFO - Fetched all products.
+2025-02-28 18:27:23,837 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:23,840 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:23,841 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:25,086 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:25,087 - app - INFO - Fetching favorite products for user 2.
+2025-02-28 18:27:25,087 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:27:25,090 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:25,103 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:25,104 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-28 18:27:25,108 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-28 18:27:25,110 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:27:25,111 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:27:25,130 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:25,130 - app - INFO - Fetching information for all users.
+2025-02-28 18:27:25,131 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:27:25,134 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:25,140 - app - INFO - Retrieved 4 users.
+2025-02-28 18:27:25,143 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:27:25,144 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:25,145 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:27:25,149 - app - INFO - Fetching favorite products for user 2.
+2025-02-28 18:27:25,155 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-28 18:27:25,157 - app - INFO - Fetching favorite products for user 2.
+2025-02-28 18:27:25,159 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:25,165 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:27:25,170 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:25,171 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:27:25,173 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-28 18:27:25,173 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:27:25,174 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:25,174 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-28 18:27:25,180 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:25,183 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:25,187 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-28 18:27:25,187 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:25,192 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:25,193 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:25,194 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:25,196 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:25,198 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:25,199 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:25,201 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:25,203 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:25,203 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:25,206 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:25,206 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:25,207 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:25,209 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:25,210 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:25,211 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:25,370 - app - INFO - Fetched all products.
+2025-02-28 18:27:25,388 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:25,389 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:25,389 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:30,504 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:30,513 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:30,516 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:30,561 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:30,569 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:30,570 - app - INFO - Fetching information for all users.
+2025-02-28 18:27:30,575 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:30,575 - app - INFO - Retrieved 4 users.
+2025-02-28 18:27:30,577 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:27:30,638 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:30,639 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:30,640 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:27:30,642 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:30,643 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:27:30,647 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:30,650 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:30,652 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:30,655 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:30,656 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:30,658 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:30,662 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:30,663 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:30,664 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:30,668 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:30,707 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:30,714 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:30,718 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:30,719 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:30,721 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:30,917 - app - INFO - Fetched all products.
+2025-02-28 18:27:31,351 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:31,353 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:31,356 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:31,747 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:31,750 - app - INFO - Fetching favorite products for user 2.
+2025-02-28 18:27:31,754 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:27:31,755 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:31,760 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-28 18:27:31,761 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:27:31,762 - app - INFO - Fetching favorite products for user 2.
+2025-02-28 18:27:31,764 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:31,769 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:27:31,769 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-28 18:27:31,772 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-28 18:27:31,775 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-28 18:27:31,800 - app - INFO - Fetching information for all users.
+2025-02-28 18:27:31,802 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:31,802 - app - INFO - Fetching favorite products for user 2.
+2025-02-28 18:27:31,804 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:27:31,805 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:31,806 - app - INFO - Retrieved 4 users.
+2025-02-28 18:27:31,811 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:27:31,812 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-28 18:27:31,814 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:31,817 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:27:31,824 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:31,825 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-28 18:27:31,831 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:27:31,832 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:31,837 - app - INFO - Fetching favorite products for user 2.
+2025-02-28 18:27:31,837 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:27:31,837 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:31,838 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:27:31,841 - app - INFO - Fetched 4 favorite products for user 2.
+2025-02-28 18:27:31,844 - app - INFO - Favorite products for user 2 retrieved successfully.
+2025-02-28 18:27:31,860 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:31,861 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:31,862 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:31,864 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:31,865 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:31,866 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:31,868 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:31,869 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:31,870 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:31,871 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:31,873 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:31,874 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:31,877 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:31,879 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:31,880 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:31,882 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:31,883 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:31,884 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:32,035 - app - INFO - Fetched all products.
+2025-02-28 18:27:32,052 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:32,053 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:32,054 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:42,175 - app - INFO - Fetching information for all users.
+2025-02-28 18:27:42,184 - app - INFO - Fetching basket for user 2.
+2025-02-28 18:27:42,184 - app - INFO - Retrieved 4 users.
+2025-02-28 18:27:42,189 - app - INFO - Fetched basket details for user 2.
+2025-02-28 18:27:42,192 - app - INFO - Basket for user 2 retrieved successfully.
+2025-02-28 18:27:42,204 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:42,206 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:42,209 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:42,209 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:42,213 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:42,217 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:42,221 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:42,223 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:42,224 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:42,238 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:42,274 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:42,277 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:42,285 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:42,289 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:42,295 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:42,301 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:42,303 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:42,303 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:42,306 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:42,307 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:42,308 - app - INFO - User info for 2 retrieved successfully.
+2025-02-28 18:27:42,449 - app - INFO - Fetched all products.
+2025-02-28 18:27:42,798 - app - INFO - Fetching info for user 2.
+2025-02-28 18:27:42,801 - app - INFO - Retrieved info for user Simon Heinrich II. (ID: 2)
+2025-02-28 18:27:42,803 - app - INFO - User info for 2 retrieved successfully.
