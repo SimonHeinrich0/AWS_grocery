@@ -46,7 +46,7 @@ resource "aws_security_group" "grocery_sg" {
 resource "aws_instance" "grocerymate" {
   ami          		 = "ami-09eb4311cbaecf89d"
   instance_type          = "t3.micro"
-  key_name 		 = "EC2_First_Instance"
+  key_name 		 = "your_key_name"
   vpc_security_group_ids = [aws_security_group.grocery_sg.id]
 
   tags = {
